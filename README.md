@@ -1,4 +1,4 @@
-# automatic-mumber-plate-recognition-system
+# Automatic-Number-Plate-Recognition-System
 This project is an end-to-end computer vision pipeline that detects and reads license plates from a video feed in real-time. It uses YOLOv8 for object detection and EasyOCR for text extraction, along with advanced OpenCV techniques for pre-processing and text stabilization.
 
 ### 🎥 Demo
